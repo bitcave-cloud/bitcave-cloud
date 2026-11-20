@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # B I T C A V E
 
@@ -7,9 +6,9 @@
 
 Engineering software for a complex world.
 
-[![Website](https://img.shields.io/badge/Website-bitcave.cloud-C5F36B?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bitcave.cloud)
-[![Engineering](https://img.shields.io/badge/Software-Engineering-18181B?style=for-the-badge)](https://bitcave.cloud/services)
-[![Open Source](https://img.shields.io/badge/Open-Source-18181B?style=for-the-badge&logo=github)](https://github.com)
+[![Website](https://img.shields.io/badge/Website-bitcave.cloud-C5F36B?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bitcave.cloud/?utm_source=github&utm_medium=referral&utm_campaign=organization_profile&utm_content=website_badge)
+[![Engineering](https://img.shields.io/badge/Software-Engineering-18181B?style=for-the-badge)](https://bitcave.cloud/services?utm_source=github&utm_medium=referral&utm_campaign=organization_profile&utm_content=services_badge)
+[![Open Source](https://img.shields.io/badge/Open-Source-18181B?style=for-the-badge&logo=github)](https://github.com/bitcave-cloud)
 
 </div>
 
@@ -62,7 +61,7 @@ We believe good engineering is not about how much technology a system uses, but 
 
 We believe in building in the open, sharing technical knowledge, and contributing to the engineering ecosystem.
 
-This organization is a space for:
+This profile is a space for:
 
 - Open-source software
 - Developer tools
@@ -73,10 +72,10 @@ This organization is a space for:
 
 ## Explore Bitcave
 
-- [Our Website](https://bitcave.cloud)
-- [Engineering Services](https://bitcave.cloud/services)
-- [Selected Work](https://bitcave.cloud/work)
-- [Engineering Notes](https://bitcave.cloud/notes)
+- [Our Website](https://bitcave.cloud/?utm_source=github&utm_medium=referral&utm_campaign=organization_profile&utm_content=website_link)
+- [Engineering Services](https://bitcave.cloud/services?utm_source=github&utm_medium=referral&utm_campaign=organization_profile&utm_content=services_link)
+- [Selected Work](https://bitcave.cloud/work?utm_source=github&utm_medium=referral&utm_campaign=organization_profile&utm_content=work_link)
+- [Engineering Notes](https://bitcave.cloud/notes?utm_source=github&utm_medium=referral&utm_campaign=organization_profile&utm_content=notes_link)
 
 ---
 
